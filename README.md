@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Oluwaseun2003, I'm 19
-- 👀 I’m a frontend web developer 
+- 👋 Hi, I’m @Oluwaseun, I'm 20
+- 👀 I’m a software Engineer
 - 💞️ I’m looking forward to collaborate with great software engineers so I can gain more knowledge
 - 📫 How to reach me ...send a DM on whatsapp 07026792904
 
